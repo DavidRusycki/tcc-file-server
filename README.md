@@ -22,3 +22,7 @@ A aplicação Spring Boot permitirá que outra aplicações se comuniquem com o 
 >
 >![database](./img/db-schema.png)
 >
+
+## Fluxo do MVP
+
+![mvp](./img/mvp.excalidraw.png)
